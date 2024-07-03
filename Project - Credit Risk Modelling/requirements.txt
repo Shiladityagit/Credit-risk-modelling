@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+statsmodels
+matplotlib
+scipy
+Flask
+xgboost
+gunicorn
